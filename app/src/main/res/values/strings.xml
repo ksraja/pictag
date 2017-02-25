@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pictag</string>
+
+    <!--<string name="navigation_drawer_open">Open navigation drawer</string>-->
+    <!--<string name="navigation_drawer_close">Close navigation drawer</string>-->
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tag_list">TagListActivity</string>
+
+    <string name="nav_drawer_opened">drawer opened</string>
+    <string name="nav_drawer_closed">drawer closed</string>
+</resources>
